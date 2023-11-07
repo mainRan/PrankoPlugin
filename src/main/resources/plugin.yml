@@ -1,0 +1,4 @@
+name: PrankoPlugin
+version: '${project.version}'
+main: me.terramain.prankoplugin.Main
+api-version: '1.20'
